@@ -1,0 +1,28 @@
+{
+  "name": "letv-fe",
+  "version": "1.0.0",
+  "description": "乐视网前端开发环境",
+  "license": "MIT",
+  "homepage": "https://github.com/hahaboy/letv-fe",
+  "keywords": [
+    "letv, letv-fe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahaboy/letv-fe.git"
+  },
+  "author": {
+    "name": "Liming Feng",
+    "email": "fengliming@letv.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "mok-js": "^2.0.3",
+    "mokdoc": "^0.1.0",
+    "uglify-js": "^2.4.19",
+    "ssh2": "^0.4.6",
+    "needle": "^0.9.1"
+  }
+}
